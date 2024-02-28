@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Palca de Video",
+      "price": "1700.00",
+      "id": 1
+    },
+    {
+      "name": "Memória RAM",
+      "price": "289.99",
+      "id": 2
+    },
+    {
+      "name": "SSD",
+      "price": "380",
+      "id": 3
+    }
+  ]
+}
